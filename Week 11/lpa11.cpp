@@ -10,6 +10,7 @@
 #include <string.h>
 #include <queue>
 
+
 /*The first line of each test case gives the number of streets (m) 
 and number of street junctions, intersections and/or dead ends (n). 
 Then, m lines follow. Each line describes a street by two integers, 

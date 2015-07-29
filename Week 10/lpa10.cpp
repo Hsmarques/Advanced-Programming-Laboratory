@@ -20,6 +20,7 @@ typedef struct node {
 
 }node;
 
+
 bool comparer(node a, node b){
 	return ((a.x1)<(b.x1));
 }
